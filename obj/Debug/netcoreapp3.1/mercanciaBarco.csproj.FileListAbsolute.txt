@@ -1,0 +1,26 @@
+C:\Users\XY enterprise\source\repos\mercanciaBarco\mercanciaBarco\bin\Debug\netcoreapp3.1\mercanciaBarco.exe
+C:\Users\XY enterprise\source\repos\mercanciaBarco\mercanciaBarco\bin\Debug\netcoreapp3.1\mercanciaBarco.deps.json
+C:\Users\XY enterprise\source\repos\mercanciaBarco\mercanciaBarco\bin\Debug\netcoreapp3.1\mercanciaBarco.runtimeconfig.json
+C:\Users\XY enterprise\source\repos\mercanciaBarco\mercanciaBarco\bin\Debug\netcoreapp3.1\mercanciaBarco.runtimeconfig.dev.json
+C:\Users\XY enterprise\source\repos\mercanciaBarco\mercanciaBarco\bin\Debug\netcoreapp3.1\mercanciaBarco.dll
+C:\Users\XY enterprise\source\repos\mercanciaBarco\mercanciaBarco\bin\Debug\netcoreapp3.1\mercanciaBarco.pdb
+C:\Users\XY enterprise\source\repos\mercanciaBarco\mercanciaBarco\obj\Debug\netcoreapp3.1\mercanciaBarco.csprojAssemblyReference.cache
+C:\Users\XY enterprise\source\repos\mercanciaBarco\mercanciaBarco\obj\Debug\netcoreapp3.1\mercanciaBarco.AssemblyInfoInputs.cache
+C:\Users\XY enterprise\source\repos\mercanciaBarco\mercanciaBarco\obj\Debug\netcoreapp3.1\mercanciaBarco.AssemblyInfo.cs
+C:\Users\XY enterprise\source\repos\mercanciaBarco\mercanciaBarco\obj\Debug\netcoreapp3.1\mercanciaBarco.csproj.CoreCompileInputs.cache
+C:\Users\XY enterprise\source\repos\mercanciaBarco\mercanciaBarco\obj\Debug\netcoreapp3.1\mercanciaBarco.dll
+C:\Users\XY enterprise\source\repos\mercanciaBarco\mercanciaBarco\obj\Debug\netcoreapp3.1\mercanciaBarco.pdb
+C:\Users\XY enterprise\source\repos\mercanciaBarco\mercanciaBarco\obj\Debug\netcoreapp3.1\mercanciaBarco.genruntimeconfig.cache
+C:\Users\felip\Desktop\UNINPAHU\POO\mercanciaBarco\mercanciaBarco\bin\Debug\netcoreapp3.1\mercanciaBarco.exe
+C:\Users\felip\Desktop\UNINPAHU\POO\mercanciaBarco\mercanciaBarco\bin\Debug\netcoreapp3.1\mercanciaBarco.deps.json
+C:\Users\felip\Desktop\UNINPAHU\POO\mercanciaBarco\mercanciaBarco\bin\Debug\netcoreapp3.1\mercanciaBarco.runtimeconfig.json
+C:\Users\felip\Desktop\UNINPAHU\POO\mercanciaBarco\mercanciaBarco\bin\Debug\netcoreapp3.1\mercanciaBarco.runtimeconfig.dev.json
+C:\Users\felip\Desktop\UNINPAHU\POO\mercanciaBarco\mercanciaBarco\bin\Debug\netcoreapp3.1\mercanciaBarco.dll
+C:\Users\felip\Desktop\UNINPAHU\POO\mercanciaBarco\mercanciaBarco\bin\Debug\netcoreapp3.1\mercanciaBarco.pdb
+C:\Users\felip\Desktop\UNINPAHU\POO\mercanciaBarco\mercanciaBarco\obj\Debug\netcoreapp3.1\mercanciaBarco.csprojAssemblyReference.cache
+C:\Users\felip\Desktop\UNINPAHU\POO\mercanciaBarco\mercanciaBarco\obj\Debug\netcoreapp3.1\mercanciaBarco.AssemblyInfoInputs.cache
+C:\Users\felip\Desktop\UNINPAHU\POO\mercanciaBarco\mercanciaBarco\obj\Debug\netcoreapp3.1\mercanciaBarco.AssemblyInfo.cs
+C:\Users\felip\Desktop\UNINPAHU\POO\mercanciaBarco\mercanciaBarco\obj\Debug\netcoreapp3.1\mercanciaBarco.csproj.CoreCompileInputs.cache
+C:\Users\felip\Desktop\UNINPAHU\POO\mercanciaBarco\mercanciaBarco\obj\Debug\netcoreapp3.1\mercanciaBarco.dll
+C:\Users\felip\Desktop\UNINPAHU\POO\mercanciaBarco\mercanciaBarco\obj\Debug\netcoreapp3.1\mercanciaBarco.pdb
+C:\Users\felip\Desktop\UNINPAHU\POO\mercanciaBarco\mercanciaBarco\obj\Debug\netcoreapp3.1\mercanciaBarco.genruntimeconfig.cache
